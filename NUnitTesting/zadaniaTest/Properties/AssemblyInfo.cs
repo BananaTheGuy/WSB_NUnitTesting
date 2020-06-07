@@ -3,11 +3,11 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 
-[assembly: AssemblyTitle("zadaniaRoznev2")]
+[assembly: AssemblyTitle("zadaniaTest")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("zadaniaRoznev2")]
+[assembly: AssemblyProduct("zadaniaTest")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
