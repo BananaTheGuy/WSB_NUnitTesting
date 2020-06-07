@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace zadaniaRoznev2
+namespace zadaniaTest
 {
     class Program
     {
@@ -42,7 +42,7 @@ namespace zadaniaRoznev2
 
             przychodnia1.groupAllPacjenci();
             
-            przychodnia1.giveSalaries("Wydano Pensje!");
+            przychodnia1.giveSalaries("Wydano pensje!");
 
             Console.ReadKey();
 
