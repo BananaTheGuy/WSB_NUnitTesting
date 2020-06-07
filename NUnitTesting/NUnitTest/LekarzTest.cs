@@ -1,5 +1,5 @@
 ﻿using NUnit.Framework;
-using zadaniaRoznev2;
+using zadaniaTest;
 
 namespace NUnitTestProject
 {
