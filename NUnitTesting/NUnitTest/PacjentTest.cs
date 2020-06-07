@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 using System.Reflection.Metadata;
-using zadaniaRoznev2;
+using zadaniaTest;
 
 namespace NUnitTestProject
 {
@@ -67,21 +67,6 @@ namespace NUnitTestProject
             Assert.That(result.Name, Is.EqualTo(expected));
             
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     }
 }
