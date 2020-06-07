@@ -1,6 +1,6 @@
 using NUnit.Framework;
 using System.Collections.Generic;
-using zadaniaRoznev2;
+using zadaniaTest;
 
 namespace NUnitTestProject
 {
