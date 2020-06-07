@@ -26,4 +26,4 @@ To be able to run this Project you need to have Visual Studio with C# environmet
  Done
  
  # Colaboration
-This project was made with help from [Przemek](https://github.com/Przemek-Ter)
+This project was made in collaboration and help from [Przemysław](https://github.com/Przemek-Ter)
