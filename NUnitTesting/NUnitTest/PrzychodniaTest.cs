@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using System.Collections.Generic;
 using System.Net.Sockets;
-using zadaniaRoznev2;
+using using zadaniaTest;
 
 namespace NUnitTestProject
 {
@@ -136,32 +136,6 @@ namespace NUnitTestProject
         }
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     }
 
